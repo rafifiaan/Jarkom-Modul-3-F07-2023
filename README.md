@@ -1322,18 +1322,9 @@ Setelah berhasil menjalankan semuanya dan tidak mendapatkan error. Sekarang laku
 10.55.4.3:8003; # Fern
 ```
 
-## Question 15
-
-## Question 16
-
-## Question 17
-
-## Question 18
-
-## Question 19
-
-## Question 20
+# Untuk Question 15 sampai 20 masih belum selesai
 
 ## Obstacle
 
 - Sempat eror untuk fixed-address
+- Perlu waktu lebih untuk memahami materi dan uji coba
