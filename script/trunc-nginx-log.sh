@@ -1,0 +1,1 @@
+truncate -s 0 /var/log/nginx/jarkom_access.log
